@@ -7,8 +7,6 @@
 
 ---
 
-### Senior Analyst → Data Scientist in Progress 🚀
-
 > "Every expert was once a beginner. I'm documenting the journey."
 
 ---
@@ -75,16 +73,9 @@ A complete, day-by-day record of my learning journey including:
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanmayjain2604&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=tanmayjain2604&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayjain2604&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
